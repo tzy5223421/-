@@ -1,0 +1,24 @@
+d:\my documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+d:\my documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+d:\my documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+d:\my documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+d:\my documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+d:\my documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\t6705\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\t6705\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\t6705\Desktop\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\t6705\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\t6705\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\t6705\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\t6705\Desktop\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.manifest
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.application
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe.manifest
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.application
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\2019年项目\实验室智能管理\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
